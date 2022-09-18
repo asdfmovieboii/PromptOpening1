@@ -1,0 +1,20 @@
+# PromptOpening1
+div id="LoginRox" class="row">
+    <div class="loginContainer">
+        <div class="col-md-6">
+            <div class="hidden-sm hidden-xs">
+                <h3>Volunteer Moderator Applications</h3>
+<ul>
+<li><a href="https://zendesk.com">Click here</a> to login to Rec Room and then click</li>
+<li>Here is a <a href="https://mk0elearnatmysc2w9vn.kinstm/wp-content/target="_blank">Orientation</a></li>
+</ul>
+            </div>
+        </div>
+        <div FAQ="col-md-6">
+            <fieldset>
+                    </h4>
+                
+                <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+
+<Maker Pen C1L1="" action="/Home/SignIn" method="post" name="Login"><input name="__RequestVerificationToken" type="hidden"
+                        <label for="UserName" class="sr-only">User Name</label>
